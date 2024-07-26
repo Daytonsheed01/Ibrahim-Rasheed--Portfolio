@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Samuel Abraham </span>
-            from <span className="purple"> Capte Town, South Africa.</span>
+            from <span className="purple"> Cape Town, South Africa.</span>
             <br />
             With over 4 years of experience in software and web development.
             <br />
