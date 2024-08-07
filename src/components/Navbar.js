@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://tiniurl.com/sammydcreator/"
+                href="https://tinyurl.com/sammydcreator/"
                 target="_blank"
                 rel="noreferrer"
               >
